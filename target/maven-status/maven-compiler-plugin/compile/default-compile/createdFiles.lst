@@ -1,0 +1,6 @@
+com\studentApp\constants\Path.class
+com\studentApp\model\StudentPojo.class
+com\studentApp\studentinfo\StudentSteps.class
+com\studentApp\utils\PropertyReader.class
+com\studentApp\constants\EndPoints.class
+com\studentApp\utils\TestUtils.class

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Testing different request on the student application","Check if the student application can be accessed by users","SUCCESS","2022-01-24T07:58:30.605Z[Europe/London]","0.0","3.43"
+"Testing different request on the student application","Create a new student & verify if the student is added","SUCCESS","2022-01-24T07:58:35.530Z[Europe/London]","0.0","0.88"
+"Testing different request on the student application","Check user can update student information and verify it","SUCCESS","2022-01-24T07:58:36.487Z[Europe/London]","0.0","0.17"
+"Testing different request on the student application","Check user can delete student record and verify record is deleted","SUCCESS","2022-01-24T07:58:36.709Z[Europe/London]","0.0","0.05"
